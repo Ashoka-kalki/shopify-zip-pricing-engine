@@ -1,0 +1,25 @@
+# Node Modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment Variables
+.env
+.env.local
+
+# Build Files
+dist/
+build/
+
+# Shopify
+.shopify/
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
